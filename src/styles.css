@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+.green-slot {
+    background-color: #e0f7e9;
+    color: #2e7d32;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+  
